@@ -1,0 +1,34 @@
+# Mistura de Flutter, Dart e ferramentas de sistema
+
+# Arquivos do Dart/Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android específico
+.gradle/
+local.properties
+*.keystore
+*.jks
+
+# iOS/macOS específico
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+.DS_Store
+
+# IDEs (VS Code e IntelliJ)
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs e arquivos temporários
+*.log
+doc/api/
